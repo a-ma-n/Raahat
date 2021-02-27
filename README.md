@@ -14,9 +14,12 @@ Shopkeeper:
    - Stock details
    - Raahat in their system
    - A personal QR code for their shop
-Customer: 
+
+
+Customer:
    - Smartphone
    - Name of the product/image
+   
    
 ## Description 
 There are several instances where consumers are not catered due to long waiting lines or crowds at shops. This is a frustrating and time consuming process for the consumer and also affects the shop owner’s business. The greatest challenges are the pandemic restrictions  which makes this process inconvenient and pose economic losses to the service provider. But with Raahat each shop’s QR code links to the website and the customer can search for an item without getting into the shop.If the customer is not aware about the details of the product they can search for it by taking the product image and add to the list. On the other end, the shopkeeper can see what the customers have ordered and confirm the order. If the order is confirmed from the customer's end then the database will be updated. Further, the customer can also update the database with details about the newer stocks. Thereby, organizing such systems.
