@@ -1,0 +1,59 @@
+.button{
+  background-color: rgba(59, 71, 243, 0.644);
+ border: none;
+ color: rgb(247, 244, 244);
+ padding: 10px 20px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ margin: 4px 2px;
+ cursor: pointer;
+ border-radius: 16px;
+ height: 40px;
+ width: 200px;
+  
+  
+}
+.button:hover {
+ background-color: #9882bb;
+}
+#style-3::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(8, 22, 151, 0.3);
+	background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+}
+.card {
+  border-radius: 20%;
+  background-color: rgba(0, 0, 0, 0.2);
+
+  
+
+
+}
+th{
+    padding: 0px 0px 0px 50px;
+}
+
+.page-footer {
+
+	background-color: #686468cc;
+	
+	font-family:  Arial;
+	
+	}
+#XD{
+	position: absolute;
+	right:0px;
+}
+
