@@ -1,6 +1,6 @@
 # Raahat
 
-#### Raahat is an enabling experience that supports vulnerable citizens during the covid pandemic by proving consumer friendly services both real time and field time through a solution which is easy and interactive.
+#### Raahat is an enabling experience that supports vulnerable citizens during the covid pandemic by providing consumer friendly services both real time and field time through a solution which is easy and interactive.
 --------------------------
 
 <a href="https://github.com/a-ma-n/Rahat"><img src="https://64.media.tumblr.com/efa06b9f6463696853f06f077e0e581e/f7350c6eeb78652f-91/s540x810/7a4166a3fee96dd2ddc4ce3203d83f8903499a75.jpg" alt="Frame-9" border="0" width = "2000"></a>
