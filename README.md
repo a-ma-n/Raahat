@@ -3,12 +3,12 @@
 #### Rahat is an enabling experience that supports vulnerable citizens during the covid pandemic by proving consumer friendly services both real time and field time through a solution which is easy and interactive.
 
 ## Contents :
-------------------
+
    - About product
    - Built with
    - Research
    - Statistical Analysis
-     - Second nested list item
+     
 
 ## About Product
 
@@ -39,3 +39,6 @@ Please click on the image to be redirected to the video
    -  Vidyarth
    -  Akshatt Kain
    -  Khushboo Nijhawan
+   
+   ----------------------
+Made with :heart: by RAHAT
