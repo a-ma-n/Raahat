@@ -29,6 +29,7 @@ There are several instances where consumers are not catered due to long waiting 
 
 
 ## Built With
+----------------
 <a href="https://github.com/a-ma-n/Rahat"><img src="https://64.media.tumblr.com/ab488c4dae980b703513b7e8b9dfb87e/920a3fb8af999892-86/s540x810/4d3f748b72916c6d25684ca80db3fcaabd586209.jpg"></a>
 
 ## Research
@@ -55,4 +56,4 @@ Please click on the image to be redirected to the video
    -  Khushboo Nijhawan
    
    ----------------------
-Made with :heart: by RAHAT
+Made with :heart: by RAAHAT
