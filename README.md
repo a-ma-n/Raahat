@@ -1,18 +1,26 @@
-# Rahat
+# Raahat
 
-#### Rahat is an enabling experience that supports vulnerable citizens during the covid pandemic by proving consumer friendly services both real time and field time through a solution which is easy and interactive.
+#### Raahat is an enabling experience that supports vulnerable citizens during the covid pandemic by proving consumer friendly services both real time and field time through a solution which is easy and interactive.
 
 ## Contents :
 
-   - About product
+   - Description
    - Built with
    - Research
    - Statistical Analysis
-     
+   
+## Requirement Analysis:
+Shopkeeper:
+   - Stock details
+   - Raahat in their system
+   - A personal QR code for their shop
+Customer: 
+   - Smartphone
+   - Name of the product/image
+   
+## Description 
+There are several instances where consumers are not catered due to long waiting lines or crowds at shops. This is a frustrating and time consuming process for the consumer and also affects the shop owner’s business. The greatest challenges are the pandemic restrictions  which makes this process inconvenient and pose economic losses to the service provider. But with Raahat each shop’s QR code links to the website and the customer can search for an item without getting into the shop.If the customer is not aware about the details of the product they can search for it by taking the product image and add to the list. On the other end, the shopkeeper can see what the customers have ordered and confirm the order. If the order is confirmed from the customer's end then the database will be updated. Further, the customer can also update the database with details about the newer stocks. Thereby, organizing such systems.
 
-## About Product
-
-Rahat is the real relief in the times of untamed pandemic for our loved ones to stay secured with least contact by solutions like imaging , listing and social distancing. The service providers can keep freezed records of their variegated customers by this technology and yet stay out of a large amount of manual documentation.Major problems can be combacted with Rahat as one can get essentials like medicine or daily use goods through a time-efficient process by curbing crowding issues and benefitting the service provider with a long time connection with the consumer. It is a limitless, versatile remedy and caters to the need of the hour.
 
 ## Built With
 
