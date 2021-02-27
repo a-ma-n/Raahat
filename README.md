@@ -46,7 +46,7 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
    -  The greatest risk for severe illness from COVID-19 is among those aged 85 or older
    -   IFR(Infection Fertility Rate) in India is approximately twice as high for men as for women
      
-## Video Submissiom
+## Video Submission
 Please click on the image to be redirected to the video
 
 ## Contributer
