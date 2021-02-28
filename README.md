@@ -38,13 +38,12 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
 
 ## Statistical Analysis
 
-<a href="https://www.brookings.edu/wp-content/uploads/2020/07/200701_global_india_fig1.png" alt="Frame-9" border="0" width = "2000"></a>
-   - Coronavirus cases have splurged as high as 11milion in India and 113 million worldwide
-   - 1.7 billion people worldwide have underlying conditions that could increase their risk of covid-19
-   - Due to lack of proper precautions their was 56%  rise in corona cases in India during March-June
-   - People in poor communtities are twice as likely to be infected with coronavirus 
-   -  The greatest risk for severe illness from COVID-19 is among those aged 85 or older
-   -   IFR(Infection Fertility Rate) in India is approximately twice as high for men as for women
+   - On an average an Indians spends anywhere from 30-40 mins at a store
+   - Indians spend the most on groceries (28%), with housing & utilities (17%) and transportation(16%) being the second and third biggest categories, respectively.
+   - 532 questionnaires were used for analysis showed that perceptions of spatial crowding had a negative relationship to promotional image
+   - Disturbution and retail sectors are twice as likely to be the ones contributing to corruption than any other sector
+   -  1 in 3 customers will stop purchasing from the store after just one bad experience
+  
      
 ## Video Submission
 Please click on the image to be redirected to the video
