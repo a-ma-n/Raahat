@@ -12,11 +12,6 @@ const THEME_TOGGLER = document.getElementById("theme-toggler");
 let isDark = LOCAL_META_DATA && LOCAL_META_DATA.isDark;
 
 // check if user has already selected dark theme earlier
-if (isDark) {
-  enableDarkTheme();
-} else {
-  disableDarkTheme();
-}
 
 
 /**
