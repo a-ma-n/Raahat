@@ -25,7 +25,7 @@ Shopkeeper:
 
 Customer:
    - Smartphone
-   - Name of the product/image
+   - Name/image of the product
    
    
 ## Description 
@@ -36,7 +36,9 @@ There are several instances where consumers are not catered due to long waiting 
 
 ## Built With
 ----------------
+<p align="center">
 <a href="https://github.com/a-ma-n/Rahat"><img src="https://64.media.tumblr.com/05314ab38d3dcfe3bb248ec058f0ce5f/e9e0af5d2c84cfa4-3d/s540x810/dda455f8ee905d467d9efceba2d7a7c5bf1fa75c.jpg"></a>
+</p>
 
 
 ## Research
