@@ -38,11 +38,14 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
 
 ## Statistical Analysis
 
-   - On an average an Indians spends anywhere from 30-40 mins at a store
+   - On an average an Indian spends anywhere from 30-40 mins at a store
    - Indians spend the most on groceries (28%), with housing & utilities (17%) and transportation(16%) being the second and third biggest categories, respectively.
    - 532 questionnaires were used for analysis showed that perceptions of spatial crowding had a negative relationship to promotional image
    - Disturbution and retail sectors are twice as likely to be the ones contributing to corruption than any other sector
    -  1 in 3 customers will stop purchasing from the store after just one bad experience
+   -  Covid cases have reached 11.1 million in India and 114 million worlwide
+   -  There is no for sure treatment of corona discovered by scientists
+   -   Corona is more severe in people 60+yrs or with health conditions like lung or heart disease, diabetes or conditions that affect their immune system.​
   
      
 ## Video Submission
