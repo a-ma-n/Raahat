@@ -30,7 +30,7 @@ There are several instances where consumers are not catered due to long waiting 
 
 ## Built With
 ----------------
-<a href="https://github.com/a-ma-n/Rahat"><img src="https://64.media.tumblr.com/ab488c4dae980b703513b7e8b9dfb87e/920a3fb8af999892-86/s540x810/4d3f748b72916c6d25684ca80db3fcaabd586209.jpg"></a>
+<a href="https://github.com/a-ma-n/Rahat"><img src="https://64.media.tumblr.com/05314ab38d3dcfe3bb248ec058f0ce5f/e9e0af5d2c84cfa4-3d/s540x810/dda455f8ee905d467d9efceba2d7a7c5bf1fa75c.jpg"></a>
 
 ## Research
 COVID-19 is a contagious disease caused by novel coronovirus with no full proof treatment discovered yet by the scientists.Senior citizens and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, obesity or cancer, are at higher risk of developing serious illness. However, anyone can get sick with COVID-19 and become seriously ill or die. We can stay safe by taking some simple precautions, such as physical distancing, wearing a mask,avoiding crowds and close contact and maintaining hygiene.
