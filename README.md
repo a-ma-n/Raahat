@@ -48,8 +48,6 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
    -   Corona is more severe in people 60+yrs or with health conditions like lung or heart disease, diabetes or conditions that affect their immune system.​
   
      
-## Video Submission
-Please click on the image to be redirected to the video
 
 ## Promotion 
 #### Click on the icons to access the content-
