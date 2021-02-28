@@ -70,7 +70,7 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
 
 <p align="center">
    
-#### Instagram stories
+#### Instagram stories-
 ---------------------
 <img src="https://64.media.tumblr.com/2b06492a60f7a45de1faaa7caca0b003/dc518a8afa2133b9-7d/s2048x3072/1ace85cf85c9a82575862d835e17f4c721d163af.jpg" alt="drawing" width="200"/>
 
