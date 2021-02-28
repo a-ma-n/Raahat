@@ -1,5 +1,5 @@
 # Raahat
-
+#### Click on the logo for Video Presentation-
 
 #### Raahat is an enabling experience that supports vulnerable citizens during the covid pandemic by providing consumer friendly services both real time and field time through a solution which is easy and interactive.
 --------------------------
@@ -7,7 +7,7 @@
 <p align="center">
 
 
-<a href="https://github.com/a-ma-n/Rahat"><img src="https://64.media.tumblr.com/efa06b9f6463696853f06f077e0e581e/f7350c6eeb78652f-91/s540x810/7a4166a3fee96dd2ddc4ce3203d83f8903499a75.jpg" alt="drawing" width="1000"></a>
+<a href=""><img src="https://64.media.tumblr.com/efa06b9f6463696853f06f077e0e581e/f7350c6eeb78652f-91/s540x810/7a4166a3fee96dd2ddc4ce3203d83f8903499a75.jpg" alt="drawing" width="1000"></a>
 
 </p>
 
@@ -72,6 +72,9 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
 [![Watch the youtube2 video](https://64.media.tumblr.com/d7505050f03725d6ff399cfc27d9a12f/9927e82ee5fd8191-14/s250x400/42264aa7c9542295216c3edbd3e312de134be64c.png)](https://youtu.be/QonH17bJuxc)
 
 [![Watch the youtube3 video](https://64.media.tumblr.com/d7505050f03725d6ff399cfc27d9a12f/9927e82ee5fd8191-14/s250x400/42264aa7c9542295216c3edbd3e312de134be64c.png)](https://youtu.be/m_cWRwq8ee8)
+
+
+
    
 #### Instagram stories-
 ---------------------
