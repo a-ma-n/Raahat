@@ -26,6 +26,7 @@ Customer:
    
 ## Description 
 There are several instances where consumers are not catered due to long waiting lines or crowds at shops. This is a frustrating and time consuming process for the consumer and also affects the shop owner’s business. The greatest challenges are the pandemic restrictions  which makes this process inconvenient and pose economic losses to the service provider. But with Raahat each shop’s QR code links to the website and the customer can search for an item without getting into the shop.If the customer is not aware about the details of the product they can search for it by taking the product image and add to the list. On the other end, the shopkeeper can see what the customers have ordered and confirm the order. If the order is confirmed from the customer's end then the database will be updated. Further, the customer can also update the database with details about the newer stocks. Thereby, organizing such systems.
+
 <a href="https://github.com/a-ma-n/Rahat"><img src="https://64.media.tumblr.com/3d695bd23140db083a69fc914f290f68/ed0ad579a1bf17fa-f5/s1280x1920/3af19a44c00bf2361313a8d57cb9f681a8c8b9fd.png"></a>
 
 ## Built With
@@ -36,10 +37,7 @@ There are several instances where consumers are not catered due to long waiting 
 COVID-19 is a contagious disease caused by novel coronovirus with no full proof treatment discovered yet by the scientists.Senior citizens and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, obesity or cancer, are at higher risk of developing serious illness. However, anyone can get sick with COVID-19 and become seriously ill or die. We can stay safe by taking some simple precautions, such as physical distancing, wearing a mask,avoiding crowds and close contact and maintaining hygiene.
 For further details visit [who.int](https://www.who.int/health-topics/coronavirus#tab=tab_1)
 
-
-
-
-
+<a href="https://github.com/a-ma-n/Rahat"><img src="https://64.media.tumblr.com/9cec61b05e8977d49a0878d2c117f777/5b3c38bf1930bf2b-87/s1280x1920/bc10cf60fb42a27317a165d2abb737d626b2e74b.jpg"></a>
 
 ## Statistical Analysis
 
