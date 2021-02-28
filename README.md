@@ -45,7 +45,7 @@ There are several instances where consumers are not catered due to long waiting 
 
 
 ## Research
-COVID-19 is a contagious disease caused by novel coronovirus with no full proof treatment discovered yet by the scientists.Senior citizens and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, obesity or cancer, are at higher risk of developing serious illness. However, anyone can get sick with COVID-19 and become seriously ill or die. We can stay safe by taking some simple precautions, such as physical distancing, wearing a mask,avoiding crowds and close contact and maintaining hygiene.
+COVID-19 is a contagious disease caused by novel coronovirus with no full proof treatment discovered yet by the scientists.Senior citizens and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, obesity or cancer, are at higher risk of developing serious illness. However, anyone can get sick with COVID-19 and become seriously ill or die.And being aware of the unorgainzed manner disturbution sectors like retail stores function there is a need of precaution to run oraginzed stores to avoid unretrievable economic loses and prevention from diseases like covid in the future
 For further details visit [who.int](https://www.who.int/health-topics/coronavirus#tab=tab_1)
 
 <a href="https://github.com/a-ma-n/Rahat"><img src="https://64.media.tumblr.com/9cec61b05e8977d49a0878d2c117f777/5b3c38bf1930bf2b-87/s1280x1920/bc10cf60fb42a27317a165d2abb737d626b2e74b.jpg"></a>
