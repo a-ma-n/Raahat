@@ -58,7 +58,7 @@ Please click on the image to be redirected to the video
 
 [![Watch the youtube2 video](https://64.media.tumblr.com/d7505050f03725d6ff399cfc27d9a12f/9927e82ee5fd8191-14/s250x400/42264aa7c9542295216c3edbd3e312de134be64c.png)](https://youtu.be/QonH17bJuxc)
 
-## Contributors
+## Creators
    -  Aman Ali Siddiqui
    -  Vidyarth 
    -  Akshatt Kain
