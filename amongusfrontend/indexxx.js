@@ -9,7 +9,7 @@ const DARK_THEME_PATH = "https://bootswatch.com/4/cyborg/bootstrap.min.css";
 const DARK_STYLE_LINK = document.getElementById("dark-theme-style");
 const THEME_TOGGLER = document.getElementById("theme-toggler");
 
-let isDark = LOCAL_META_DATA && LOCAL_META_DATA.isDark;
+let isDark = 1;
 
 // check if user has already selected dark theme earlier
 
