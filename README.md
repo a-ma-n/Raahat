@@ -49,7 +49,7 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
 ## Video Submission
 Please click on the image to be redirected to the video
 
-## Contributer
+## Contributors
    -  Aman Ali Siddiqui
    -  Vidyarth
    -  Akshatt Kain
