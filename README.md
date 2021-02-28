@@ -60,7 +60,7 @@ Please click on the image to be redirected to the video
 
 ## Contributors
    -  Aman Ali Siddiqui
-   -  Vidyarth
+   -  Vidyarth GS
    -  Akshatt Kain
    -  Khushboo Nijhawan
    
