@@ -54,9 +54,9 @@ Please click on the image to be redirected to the video
 ## Promotion 
 #### Click on the icons to access the content-
 -------------------
-[![Watch the instagram video](https://64.media.tumblr.com/b4710281d369f21fb6ba41c3a9152358/58894ef47f41c508-f3/s250x400/a26db4bea3c53feeab34bfe86e000923b4cf68c5.png)](https://www.instagram.com/p/CJC3QxegcjdZy-tJ_ldHFNYKZvij0kJMOKrtKc0/)
------------------
-[![Watch the youtube video](https://64.media.tumblr.com/b4710281d369f21fb6ba41c3a9152358/58894ef47f41c508-f3/s250x400/a26db4bea3c53feeab34bfe86e000923b4cf68c5.png)](https://youtu.be/QonH17bJuxc)
+[![Watch the instagram video](https://64.media.tumblr.com/d7505050f03725d6ff399cfc27d9a12f/9927e82ee5fd8191-14/s250x400/42264aa7c9542295216c3edbd3e312de134be64c.png)](https://www.instagram.com/p/CJC3QxegcjdZy-tJ_ldHFNYKZvij0kJMOKrtKc0/)
+
+[![Watch the youtube video](https://64.media.tumblr.com/d7505050f03725d6ff399cfc27d9a12f/9927e82ee5fd8191-14/s250x400/42264aa7c9542295216c3edbd3e312de134be64c.png)](https://youtu.be/QonH17bJuxc)
 
 ## Contributors
    -  Aman Ali Siddiqui
