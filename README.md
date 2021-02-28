@@ -51,6 +51,11 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
 ## Video Submission
 Please click on the image to be redirected to the video
 
+## Promotion 
+Links for social media promotion are as follows:
+
+[![Watch the youtube video](https://youtu.be/QonH17bJuxc)]
+
 ## Contributors
    -  Aman Ali Siddiqui
    -  Vidyarth
