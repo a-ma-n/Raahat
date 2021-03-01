@@ -76,6 +76,11 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
 [![Watch the youtube3 video](https://64.media.tumblr.com/d7505050f03725d6ff399cfc27d9a12f/9927e82ee5fd8191-14/s250x400/42264aa7c9542295216c3edbd3e312de134be64c.png)](https://youtu.be/m_cWRwq8ee8)
 
 
+<p align="center">
+   
+<a href="https://www.linkedin.com/posts/-aman_qrcodes-shopsafe-shoppingexperience-activity-6772057382211108865-CwMR"><img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG27.png" alt="drawing" width="200"/>
+
+</p>
 
    
 #### Instagram stories-
